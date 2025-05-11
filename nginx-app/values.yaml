@@ -1,3 +1,4 @@
 service:
   type: ClusterIP
   port: 8080
+replicaCount: 3
