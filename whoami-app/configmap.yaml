@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: whoami-config
+data:
+  MESSAGE: "Welcome to the Whoami Service - Deployed via ArgoCD"
